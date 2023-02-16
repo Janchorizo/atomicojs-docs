@@ -158,7 +158,7 @@ function component() {
 
 The objective of this feature is to retrieve slot and use it as a template from the webcomponent.
 
-## SSR hydrations
+## SSR hydration
 
 Atomico allows reusing existing DOM in the document. This is done during the
 webcomponent instatiation, by setting a special property in the tag to mark it
